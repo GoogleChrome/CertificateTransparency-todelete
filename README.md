@@ -1,6 +1,11 @@
 # Certificate Transparency in Chrome
 
-## Overview
+## Chrome Certificate Transparency Policy
+Chrome maintains two policy documents for Certificate transparency:
+* The [Chrome CT Policy](https://goo.gl/chrome/ct-policy) outlines the criteria for certificates to be deemed _CT Compliant_ in Chrome.
+* The [Chrome CT Log Policy](https://goo.gl/chrome/ct-log-policy) describes what requirements Chrome places on current and prospective CT Log Operators.
+
+## Overview of Certificate Transparency
 
 Certificate Transparency (CT) is a protocol designed to fix several structural
 flaws in the SSL/TLS certificate ecosystem. Described in
